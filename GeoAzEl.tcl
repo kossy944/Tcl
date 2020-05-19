@@ -26,8 +26,8 @@ OTHER 100.0 \
 
 # site {lat long} lat & long as a list, add new earth stations here.
 array set stationlatlong {\
-Lockridge {-31.880138 115.941163} \
-Belrose {-33.719000 151.211000} \
+Perth {-31.880138 115.941163} \
+Sydney {-33.719000 151.211000} \
 Adelaide {-34.864000 138.571000} \
 Darwin {-12.478000 130.939000} \
 Canberra {-35.213000 149.143000} \
